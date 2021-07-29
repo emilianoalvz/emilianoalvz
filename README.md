@@ -1,7 +1,7 @@
 ### Hi, I’m Emiliano Alvarez 👋
 
 - 📊 I’m interested in Data Analysis 
-- 🌱 I’m currently learning a little bit of everything
+- 🌱 I’m currently learning programming
 - 👨‍💻 I’m looking for a home office job as a Data Analyst
 - 🎹 My hobby is playing piano 
 - ⚽ I love sports, my favorite one is soccer
