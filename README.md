@@ -2,7 +2,7 @@
 
 - 📊 I’m interested in Data Analysis 
 - 🌱 I’m currently learning programming
-- 👨‍💻 I’m looking for a home office job as a Data Analyst
+- 👨‍💻 I’m looking for a home office job as Data Analyst
 - 🎹 My hobby is playing piano 
 - ⚽ I love sports, my favorite one is soccer
 - 🦆 [**Kaggle**](https://www.kaggle.com/emilianoalvz/code)
